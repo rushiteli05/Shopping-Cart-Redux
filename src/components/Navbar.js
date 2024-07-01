@@ -23,7 +23,7 @@ export default function App() {
       <MDBContainer fluid>
         <MDBNavbarBrand>Navbar</MDBNavbarBrand>
         <span>
-          <Link to="/">All Product </Link>
+          <Link to="/">All Products </Link>
         </span>
         <MDBBtn color="light">
           <Link to="/cart">Cart({totalQuantity})</Link>
